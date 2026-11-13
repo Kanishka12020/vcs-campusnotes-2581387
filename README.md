@@ -16,3 +16,6 @@ Kanishka
 ## Purpose
 To organize semester notes and practice
 Git and GitHub collaboration.
+
+## Collaboration Test
+This update was made from a second local clone.
